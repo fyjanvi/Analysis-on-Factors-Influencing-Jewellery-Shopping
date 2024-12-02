@@ -1,1 +1,2 @@
-# Insights-into-customer-jewellery-purchase-preference
+Project name - Analysis on Factors Influencing Jewellery Shopping
+Overview - 
